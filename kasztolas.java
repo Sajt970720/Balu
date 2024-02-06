@@ -7,7 +7,7 @@ public class kasztolas {
         byte szam1= 12;
         short szam2 = 13;
         int szam3 = 14 ;
-        long szam4 = 15;
+        long szam4 = 15L;
 
         float szam6 = 12.f;
         double szam7 =  23.65d;
